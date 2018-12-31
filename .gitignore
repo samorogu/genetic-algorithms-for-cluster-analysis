@@ -107,3 +107,6 @@ venv.bak/
 .DS_Store
 .AppleDouble
 .LSOverride
+
+#genetic reference book
+genetic_algorithms_with_python.pdf
